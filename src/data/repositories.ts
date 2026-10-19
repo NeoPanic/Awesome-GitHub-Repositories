@@ -27,6 +27,18 @@ export type Repository = {
 };
 
 export const repositories: Repository[] = [
+  {
+    slug: "glim",
+    name: "Glim",
+    description:
+      "MIT-licensed macOS file viewer for Markdown, source code, PDF and Office previews, with basic UTF-8 editing",
+    category: "open-source-tools",
+    tags: ["macos", "file-viewer", "markdown", "pdf"],
+    techStack: ["Rust", "GPUI Kit", "Swift"],
+    githubUrl: "https://github.com/NeoPanic/Glim",
+    stars: 17,
+    lastUpdated: "2026-10-19",
+  },
   // DevOps & Cloud
   {
     slug: "devops-roadmap",
