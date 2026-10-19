@@ -173,6 +173,7 @@ You're very welcome! Just follow the simple steps at the bottom.
 ### Open Source Tools
 | Repository | Description | Stars* |
 |------------|-----------|-------|
+| [NeoPanic/Glim](https://github.com/NeoPanic/Glim) | MIT-licensed macOS file viewer for Markdown, source code, PDF and Office previews, with basic UTF-8 editing | 17 (Oct 2026) |
 | [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) | List of companies offering remote positions | 29k+ |
 | [NajiElKotob/Awesome-Power-BI](https://github.com/NajiElKotob/Awesome-Power-BI) | Awesome Power BI resources & templates | 1k+ |
 | [Vikranth3140/Vehicle-Management-System](https://github.com/Vikranth3140/Vehicle-Management-System) | Complete vehicle management system application | 500+ |
